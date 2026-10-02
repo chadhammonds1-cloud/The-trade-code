@@ -13,7 +13,7 @@ import cv2, numpy as np
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 os.chdir(HERE)
-HOLD_TAIL = {}  # e.g. {"06": 3}
+HOLD_TAIL = {"02": 6}  # 02→03 silence fix
 clips = sorted(glob.glob("clips/??_x.mp4"))
 os.makedirs("norm", exist_ok=True)
 parts = []

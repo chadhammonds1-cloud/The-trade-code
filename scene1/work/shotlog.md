@@ -30,3 +30,12 @@ LEFT plate (hand-fixed) uploaded: hZhY2I2qEiRmI6klCgfu
 | 14 | S14a PASS (…1790915029859_1b82b38c.png) | 1114 | 11 | rendering | | |
 | 14 | S14a | 1114 | 11 | 14_a …1790915287639_63f560f9.mp4 | picture PASS; Tav "On the hook" whispered, unclear words; voice .83 vs his in-episode lines | |
 | 14 | S14a | 1124 | 11 | 14_b …1790915740613_ce7e570b.mp4 | CHOSEN: words clear ("...not in a pile ... on the hook"), DAD .91, hangs + settles + hold; Tav voice .79 vs in-episode (Ves .73) — FLAG, just under 0.80 | |
+
+## Round 2 (Chad's notes)
+| 03 | S03c door on north wall (…1790948832790_9c1293ed.png) | 1103 | 12 | 03_c …1790949217044_1e22464f.mp4 | PASS: door on counter wall, props on lines, DAD .88 TAV .84; 02→03 gap 0.27 → hold 02 tail 6 frames | |
+| 07 | S07c Vessa on chair (…1790948838824_d47d0761.png) | 1127 | 12 | 07_c …1790949208980_fb8bfedd.mp4 | PASS: locked camera, Dad looks at kids when speaking, Vessa clear on chair, DAD .90 | |
+| 14 | S14b ring-up (…1790948832070_21ee628d.png) | 1124 | 11 | 14_c …1790949201752_21a4cf80.mp4 | PASS: hangs by ring, lens down; words clear | |
+| 11 | S11a | 1111 | 15 | 11_b …1790949312677_0133b414.mp4 | PASS: transcript word-perfect incl. "under the sink" (CER 0.0), DAD .92, same push-in | |
+| 08 | S08b | 1138 | 15 | 08_c …1790949978935_36d35549.mp4 | PASS: one continuous wide shot (no cut), drawer→walk→kneel; DAD .92; cut 07→08 1.36 s | |
+| 09 | S09c same spot as 08 end (…1790950188610_6ac5c810.png) | 1119 | 15 | 09_c …1790950490713_4e03b034.mp4 | PASS: no teleport (leaning doors behind), "old ... and faithful" separated, TAV .87 DAD .93 | |
+| 10 | S10c aimed at leaning doors (…1790950692011_c3da00a8.png) | 1140 | 6 | 10_c …1790950973095_1d0973a2.mp4 | PASS: one click (single transient 1.74 s), beam spot on the leaning doors where pointed, TAV .89 | |
