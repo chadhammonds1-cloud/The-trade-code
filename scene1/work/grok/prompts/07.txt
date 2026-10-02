@@ -1,0 +1,24 @@
+3D CGI animated feature film, high-end stylized characters with expressive faces, soft global illumination, rich materials and textures, cinematic depth of field. Exactly matching the art style, character designs, costumes and location of image 1, which is the opening frame of this shot.
+
+FIRST FRAME: the video starts exactly on image 1.
+
+CAMERA: LOCKED OFF. The camera does NOT move at all: no pan, no follow, no zoom, no push-in, no cut. The fridge stays at the left edge and the sink stays in the center of frame for the whole shot.
+
+CHARACTERS: Dad (bearded man, grey henley, olive canvas apron). Vessa (little girl, light-blue hoodie, two puffy buns with yellow pom ties) stays seated on her wooden chair in the lower right, her body clearly on the chair and above the table edge the whole shot, watching Dad. Tavique (boy, royal-blue hoodie) stays at the right edge, watching Dad.
+VOICE: Dad speaks with a warm, mellow, friendly grown man's voice. No one else speaks.
+EYELINE (important): whenever Dad speaks he LOOKS AT THE KIDS, turning his head to Tavique and Vessa on the right of frame. He only looks down into the drawer while his hands are working and during the silent pause.
+THE DRAWER: the long drawer with the dark cup pull directly LEFT of the white farmhouse sink. Only this drawer opens.
+
+TIMELINE (Dad simple, gentle):
+0-0.6s: beat, no one speaks.
+0.6-1.8s: Dad, looking at Tavique: "We don't."
+1.8-4.0s: Dad steps two short steps to the left to the cup-pull drawer just left of the sink, turning his head back to the kids as he says: "I'm putting the new one in the drawer."
+4.0-6.0s: He pulls the drawer open by its cup pull and lays the red flashlight package inside, glancing down at it.
+6.0-8.4s: His hand resting in the drawer, he looks back over at Tavique: "Which means this old one..."
+8.4-9.4s: pause. He stops and looks down into the drawer, remembering.
+9.4-11.2s: he looks up at Tavique again, softly: "wait, let me get it."
+11.2-12s: hold. Dad's hand reaching deeper into the open drawer.
+
+Dad's body, build and clothes stay exactly as in image 1. The fridge, cabinets, drawers, sink, window, table and Vessa's chair stay exactly as in image 1.
+
+AUDIO: dialogue exactly as written, a dry, plain dialogue recording, plus two footsteps on tile and a wooden drawer sliding open. No music, no score, no humming, no ambient bed. No subtitles, no on-screen text.
